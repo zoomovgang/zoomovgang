@@ -1,20 +1,21 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://media.tenor.com/W7j80IwwaPkAAAAM/komaru-cat.gif" width="100"/>
+  <img src=https://media.tenor.com/W7j80IwwaPkAAAAM/komaru-cat.gif" width="200"/>
+<div id="badges">
+  <a href="discord.gg/PxSGCVCJBn">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
+  </a>
+  <a href="vk.com/zoomovgang">
+    <img src="https://img.shields.io/badge/вконтакте-%232E87FB.svg?&style=for-the-badge&logo=vk&logoColor=white" alt="Vk Badge"/>
+  </a>
+  <a href="t.me/zoomovgang">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+  </a>
 </div>
-### Hi there 👋
+  <img src="https://komarev.com/ghpvc/?username=zoomovgang&style=flat-square&color=blue" alt=""/>         
 
+- :telescope: Я Java разработчик из России изучаю язык около 4 лет.
 
-<!--
-**zoomovgang/zoomovgang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- :seedling: По большей части я разрабатываю плагины на BukkitAPI.
+                                                                                               
+- :cupid: Так же я разрабатываю плагины любой сложности на заказ. Если вы заинтересованы в покупке, пишите мне.                                                                                               
+- :mailbox:Как написать мне?:     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" width="85"/> zoomov#0001 или   [![Telegram Badge](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](t.me/zoomovgang)
