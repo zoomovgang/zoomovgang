@@ -1,4 +1,8 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://media.tenor.com/W7j80IwwaPkAAAAM/komaru-cat.gif" width="100"/>
+</div>
 ### Hi there 👋
+
 
 <!--
 **zoomovgang/zoomovgang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
