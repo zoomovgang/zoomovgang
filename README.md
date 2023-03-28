@@ -13,7 +13,7 @@
 </div>
   <img src="https://komarev.com/ghpvc/?username=zoomovgang&style=flat-square&color=blue" alt=""/>         
 
-- :telescope: Я Java разработчик из России изучаю язык около 4 лет.
+- :telescope: Я Java разработчик из России изучаю джаву около 4 лет.
 
 - :seedling: По большей части я разрабатываю плагины на BukkitAPI.
                                                                                                
